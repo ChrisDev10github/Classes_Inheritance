@@ -1,0 +1,32 @@
+Animal
+----------
++ name: String
+-----------
++ move()
+-----------
+
+Fish(Animal)
+Snake(Animal)
+Person(Animal)
+
+Book
+-----------
++ Title: String
+-----------
++ CollectDust()
+-----------
+
+Textbook(Book)
+AddressBook(Book)
+
+
+Vehicle
+-----------
++ Brand: String
+-----------
++ move()
+
+Car(Vehicle)
+Bicycle(Vehicle)
+Boat(Vehicle)
+Hot-air Balloon(Vehicle)
